@@ -1,0 +1,18 @@
+#pragma once
+
+#include "Struct.h"
+#include "Camera.h"
+#include "DisplayBuffer.h"
+#include "KeyInput.h"
+#include "ConsoleOutput.h"
+#include "HelperFunc.h"
+#include "UISuper.h"
+#include "DlgSuper.h"
+#include "ListUI.h"
+#include "PictureUI.h"
+#include "TextUI.h"
+#include "ScrollTextUI.h"
+#include "AlarmUI.h"
+#include "EditBox.h"
+#include "MessageBox.h"
+#include "HelperClass.h"

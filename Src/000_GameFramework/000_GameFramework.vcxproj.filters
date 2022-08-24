@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="AlarmUI.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="ConsoleOutput.cpp" />
+    <ClCompile Include="DisplayBuffer.cpp" />
+    <ClCompile Include="DlgSuper.cpp" />
+    <ClCompile Include="HelperFunc.cpp" />
+    <ClCompile Include="KeyInput.cpp" />
+    <ClCompile Include="ListUI.cpp" />
+    <ClCompile Include="PictureUI.cpp" />
+    <ClCompile Include="Struct.cpp" />
+    <ClCompile Include="TextUI.cpp" />
+    <ClCompile Include="UISuper.cpp" />
+    <ClCompile Include="UnicodeEncoding.cpp">
+      <Filter>Unicode</Filter>
+    </ClCompile>
+    <ClCompile Include="Unicode.cpp">
+      <Filter>Unicode</Filter>
+    </ClCompile>
+    <ClCompile Include="Setting.cpp" />
+    <ClCompile Include="EditBox.cpp" />
+    <ClCompile Include="MessageBox.cpp" />
+    <ClCompile Include="HelperClass.cpp" />
+    <ClCompile Include="Console.cpp" />
+    <ClCompile Include="ScrollTextUI.cpp" />
+    <ClCompile Include="pch.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="000_GameFramework.h" />
+    <ClInclude Include="AlarmUI.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="ConsoleOutput.h" />
+    <ClInclude Include="DisplayBuffer.h" />
+    <ClInclude Include="DlgSuper.h" />
+    <ClInclude Include="HelperFunc.h" />
+    <ClInclude Include="KeyInput.h" />
+    <ClInclude Include="ListUI.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="PictureUI.h" />
+    <ClInclude Include="Struct.h" />
+    <ClInclude Include="TextUI.h" />
+    <ClInclude Include="UISuper.h" />
+    <ClInclude Include="Unicode.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="UnicodeEncoding.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="Setting.h" />
+    <ClInclude Include="EditBox.h" />
+    <ClInclude Include="MessageBox.h" />
+    <ClInclude Include="HelperClass.h" />
+    <ClInclude Include="Console.h" />
+    <ClInclude Include="ScrollTextUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Unicode">
+      <UniqueIdentifier>{9d6ad1dd-1afe-422c-ba8c-2d4f6270c420}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
